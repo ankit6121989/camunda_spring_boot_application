@@ -1,4 +1,4 @@
-package org.example;
+package app.camunda;
 
 
 import org.springframework.boot.SpringApplication;
