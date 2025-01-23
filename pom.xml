@@ -34,14 +34,9 @@
             <version>${camunda.spring-boot.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.camunda.bpm</groupId>
-            <artifactId>camunda-engine-rest-core-jakarta</artifactId>
-            <version>7.22.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <scope>test</scope>
+            <groupId>org.camunda.bpm.springboot</groupId>
+            <artifactId>camunda-bpm-spring-boot-starter-rest</artifactId>
+            <version>7.21.0</version>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
